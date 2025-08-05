@@ -1,5 +1,5 @@
 streamlit
-langchain
+langchain==0.0.264
 openai
 faiss-cpu
 pypdf
